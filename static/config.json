@@ -26,6 +26,6 @@
         "key": ""
     },
     "plugins": [
-        { "name": "customise", "url": "static/plugins/customise.html" }
+        { "name": "customise", "url": "static/plugins/plugin-radioclick.js" }
     ]
 }
