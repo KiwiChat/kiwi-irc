@@ -17,11 +17,13 @@
     ],
     "startupOptions" : {
         "server": "irc.romaniachat.eu",
-        "port": 7010,
+        "port": 6697,
         "tls": true,
         "remember_buffers": "false",
+        "greetingText": "RomaniaChat",
         "channel": "#RadioClick,#Romania,#Trivia,#ShowChat",
-        "nick": "RomaniaChat??"
+        "nick": "User??",
+        "infoBackground": "static/plugins/radioclick/romaniachat.webp"
     },
     "embedly": {
         "key": ""
